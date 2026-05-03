@@ -1,59 +1,19 @@
-# PpwAngular21
+# Proyecto en su estado inicial
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.7.
+### Evindencias del 01-instalación
 
-## Development server
+### 1. Salida de `ng version` en la terminal
 
-To start a local development server, run:
+![Comando ng version](evidencias/assets/01-ng-version.png)
 
-```bash
-ng serve
-```
+### 2. Proceso de  creación del proyecto con Angular CLI
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+![Creación del proyecto](evidencias/assets/02-ng-new.png)
 
-## Code scaffolding
+### 3. Pagina de bienvenida de Angular.
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+![Pagina de inicio de Angular](evidencias/assets/03-pagina-inicio.png)
 
-```bash
-ng generate component component-name
-```
+### 4. `HomePage` funcionando en `localHost:4200`
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+![HomePage funcionando](evidencias/assets/04-homepage.png)
